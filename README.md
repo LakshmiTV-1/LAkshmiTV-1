@@ -17,7 +17,7 @@
 - 🔹 Linux Automation Scripts
 
 ### 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/lakshmi-tv-5b13842b7
 - Email: lakshmitv202@gmail.com
 
 
