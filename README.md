@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 Hi, I'm Lakshmi
 
-<!--
-**LakshmiTV-1/LAkshmiTV-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- Linux, Shell Scripting
+- Git & GitHub
+- Docker & Kubernetes
+- AWS (EC2, S3, IAM, VPC)
+- Terraform & Ansible
+- Jenkins CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- 🔹 CI/CD Pipeline using Jenkins & Docker
+- 🔹 Kubernetes Deployment with YAML
+- 🔹 AWS Infrastructure using Terraform
+- 🔹 Linux Automation Scripts
+
+### 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: lakshmitv202@gmail.com
+
+
+
